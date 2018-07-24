@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chargeListItemHeight">64dp</dimen>
+    <dimen name="chargeListItemDateTextSize">16sp</dimen>
+    <dimen name="noChargeHistoryText">24sp</dimen>
+</resources>

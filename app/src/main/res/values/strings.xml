@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Charge Logger</string>
+    <string name="chargerConnected">Connected: %s</string>
+    <string name="chargerDisconnected">Disconnected: %s</string>
+    <string name="chargePercent">%d%%</string>
+    <string name="deleteAll">Delete all</string>
+    <string name="historyEmpty">Charge history is empty</string>
+</resources>
